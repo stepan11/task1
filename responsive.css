@@ -3,6 +3,10 @@ max-width: 100%;
 margin: o auto;
 }
 
+img{
+  width:100;
+}
+
 .header {
 width: 100%
 }
