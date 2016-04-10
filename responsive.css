@@ -1,0 +1,17 @@
+.wrapper {
+max-width: 100%;
+margin: o auto;
+}
+
+.header {
+width: 100%
+}
+
+.menu {
+float: left;
+background: #333;
+}
+
+.content {
+float: left;
+}
