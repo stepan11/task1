@@ -27,6 +27,7 @@ background: #333;
 }
 
 .content {
+width: 100%;
 float: left;
 }
 .content img {
