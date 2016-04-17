@@ -25,14 +25,21 @@ background: #333;
   display:inline-block; margin: 1% 1%;
 }
 
-/** attantion **//
-#img1 {
-  float
-  height
-  width
-  content: url(); 
-}
-}
 .content {
 float: left;
 }
+.content img {
+  height: auto;
+  width: 25%;
+  float: left;
+}
+
+
+\\////******
+header,
+nav,
+section {
+  border: 1px solid rgba(255,255,255,0.8);
+  margin-bottom: 10px;
+  border-radius: 3px;
+} ****////\\\\\
