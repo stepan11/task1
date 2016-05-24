@@ -39,6 +39,18 @@ float: left;
   float: left;
 }
 
+.footer {
+  background-color: #f2f2f2;
+}
+
+
+.part {
+  float: left;
+  width: 20%; 
+  height: auto;
+  font-size: 12px;
+}
+
 @media screen and (max-width: 1068px) {
   .content img {
     width: 50%;
@@ -48,6 +60,11 @@ float: left;
 @media screen and (max-width: 735px) {
   .content img {
     width: 100%;
+  }
+  
+  .part {
+    width: 50%;
+    height: auto;
   }
 }
   
